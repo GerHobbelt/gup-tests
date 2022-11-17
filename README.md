@@ -1,4 +1,4 @@
-# ApprovalTests.cpp.StarterProject
+# gup-tests
 
 [![Build Status](../../workflows/build/badge.svg?branch=master)](../../actions?query=branch%3Amaster+workflow%3Abuild)
 [![Build Status](../../workflows/build_vs/badge.svg?branch=master)](../../actions?query=branch%3Amaster+workflow%3Abuild_vs)
